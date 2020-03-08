@@ -1,2 +1,3 @@
 # Python Programming
-Python Core programming like Variables, Data types, Date Structures, Functions, Loops, Classes and More.
+
+Python programming - Variables, Data types, Date Structures, Functions, Loops, Classes and More.
