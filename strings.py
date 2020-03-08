@@ -28,6 +28,9 @@ print(a.upper()) # prints - I LOVE PYTHON
 # To Make all Lowercase
 print(a.lower()) # prints - i love python
 
+# To Make the first character of each word Capital
+print(a.title()) # prints - I Love Python
+
 # To Swap case
 print(a.swapcase()) # prints - I lOVE PYTHON
 

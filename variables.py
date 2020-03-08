@@ -13,12 +13,14 @@ RULES TO  DEFINE VARIABLES
 -Variable names are case-sensitive (one, One and ONE are three different variables)
 '''
 
-# Variable Types
+# Variable DataTypes
 # Assigning Values to variables
 a = 3                # Integer
 b = 3.5              # Float
 name = "Muniyandi"   # String
 is_submitted = True  # Boolean, First letter should be always Capital(True/False)
+
+print(type(c))
 
 print(a)  # prints - 3
 print(name)  # prints - Muniyandi
@@ -52,6 +54,9 @@ print(exp)  # prints - 27
 
 mod = a % 2  # Modulo Operator
 print(mod)  # prints - 1
+
+# To Check the variable type
+print(type(a)) # prints - <class 'int'>
 
 # Casting
 x = 1.5
